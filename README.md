@@ -10,7 +10,9 @@ Work language: Flutter, Dart (2017).
 minimum OS:
 - Android 6.0 - 6.0.1
 - iOS 9.0
+
 minSdkVersion 21
+
 PROJECT OPPORTUNITIES:
 
 - Google map. geolocation function, route construction. Information windows attached to google maps marks.
