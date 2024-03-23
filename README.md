@@ -7,10 +7,10 @@ The entire project was created free of charge and is not intended for monetizati
 This is a scientific project in computer science about the development of a mobile application EcoMap to increase the environmental responsibility of citizens.
 The app provides routes within the city's green areas and informs about their environmental issues.
 Work language: Flutter, Dart (2017).
-minimum OP:
+minimum OS:
 - Android 6.0 - 6.0.1
 - iOS 9.0
-
+minSdkVersion 21
 PROJECT OPPORTUNITIES:
 
 - Google map. geolocation function, route construction. Information windows attached to google maps marks.
