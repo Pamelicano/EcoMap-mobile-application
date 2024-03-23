@@ -8,6 +8,9 @@ The application is not intended to be launched, it works solely as a code exampl
 The project has disabled the database and GOOGLE MAP API so as not to exceed the usage limit.
 The entire project was created free of charge and is not intended for monetization.
 
+minSdkVersion 21
+
+
 PROJECT OPPORTUNITIES:
 
 - Google map. geolocation function, route construction. Information windows attached to google maps marks.
