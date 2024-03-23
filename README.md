@@ -1,6 +1,8 @@
-# project1
+# ECOMAP MOBILE APPLICATION 
 
-A new Flutter project.
+The application is not intended to be launched, it works solely as a code example, a tutorial. As convenient for you, but not intended for downloading!!!
+The project has disabled the database and GOOGLE MAP API so as not to exceed the usage limit.
+The entire project was created free of charge and is not intended for monetization.
 
 ## Getting Started
 
